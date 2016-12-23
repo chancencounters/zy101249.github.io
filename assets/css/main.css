@@ -3703,3 +3703,11 @@
 		}
 
 	}
+
+	.devicon {
+	  font-size: 4em;
+
+	  p {
+	    margin: 0 0 2em 0;
+	  }
+	}
